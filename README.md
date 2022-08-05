@@ -1,7 +1,7 @@
 
 # Ecommerce site using Sanity
 
-This is my first project working on an ecommerce site. It is built with sanity fro ecommerce and Stripe as a payment processor. This was an oppurtunity to learn how to build an ecommerce site for the first time and Sanity explore the benefits of using Sanity as an ecommerce platform.
+This is my first project working on an ecommerce site. It is built with sanity for ecommerce and Stripe as a payment processor. This was an oppurtunity to learn how to build an ecommerce site and use Nextjs for the first time.
 
 
 ## Authors
